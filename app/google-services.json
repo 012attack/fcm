@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785247747172",
+    "project_id": "ebs-test-464f4",
+    "storage_bucket": "ebs-test-464f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785247747172:android:e22435a805ce7c179f7371",
+        "android_client_info": {
+          "package_name": "com.ebs.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785247747172-cfu4gr9ui9vflmcrvg7b1gak4l6hltlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuNMBolHUvBUBc4SgKYSRb21oUjKFZBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785247747172-cfu4gr9ui9vflmcrvg7b1gak4l6hltlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
